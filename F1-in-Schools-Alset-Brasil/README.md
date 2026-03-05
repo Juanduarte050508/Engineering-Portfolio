@@ -13,8 +13,8 @@ F1 in Schools is a global STEM challenge where students design, analyze, and man
 - **Technical Standards:** Ensuring every component met the rigorous F1 in Schools international technical regulations.
 
 ### 🛠️ Software Experience (Engineering)
-- **CAD/CAM Software:** (Ex: Autodesk Fusion 360 / SolidWorks - *coloque o que você usou aqui*)
-- **CFD Tools:** (Ex: ANSYS / Flow Design - *coloque o que você usou aqui*)
+- **CAD/CAM Software:** ( Autodesk Fusion 360 / SolidWorks / Inventory )
+- **CFD Tools:** (Ex: ANSYS / Flow Design )
 
 ---
 *This experience provided a strong foundation in digital manufacturing and fluid simulation workflows.*
