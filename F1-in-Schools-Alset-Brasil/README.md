@@ -1,20 +1,35 @@
-# 🏎️ F1 in Schools - Alset Brasil
-**Role: Assistant Engineer**
+# 🏎️ F1 in Schools | Engineering & Design Portfolio
+**Role: Lead Design/Project Engineer (2023-2024)**
 
-### 🏁 Project Description
-F1 in Schools is a global STEM challenge where students design, analyze, and manufacture miniature F1 cars. As part of **Alset Brasil**, I worked directly with the engineering team to optimize vehicle performance.
+## 📌 Project Overview
+F1 in Schools is an international STEM competition where teams design, analyze, manufacture, and race miniature compressed air-powered cars. This repository documents the technical development of the **Rise 5** prototype.
 
-### 🔧 Technical Responsibilities & Skills
-- **CFD Analysis:** Conducted Computational Fluid Dynamics (CFD) tests to analyze and improve the car's aerodynamic efficiency and drag coefficient.
-- **2D Documentation:** Responsible for creating technical 2D drawings (dimensioning/cotas) for manufacturing and regulation compliance.
-- **3D Modeling:** Performed advanced CAD operations, including:
-  - **Mesh Generation:** Preparing models for fluid simulation.
-  - **Feature Modeling:** Using Extrude, Revolve, and Loft operations to build complex aerodynamic surfaces.
-- **Technical Standards:** Ensuring every component met the rigorous F1 in Schools international technical regulations.
-
-### 🛠️ Software Experience (Engineering)
-- **CAD/CAM Software:** ( Autodesk Fusion 360 / SolidWorks / Inventory )
-- **CFD Tools:** (Ex: ANSYS / Flow Design )
+## 🛠️ Tech Stack & Skills
+*   **CAD:** Autodesk Fusion 360 (Advanced Surface Modeling).
+*   **CAE/CFD:** Virtual Wind Tunnel Simulations (Drag & Downforce analysis).
+*   **Management:** WBS (Work Breakdown Structure), Budgeting, and Quality Control.
+*   **Manufacturing:** 3D Printing (SLA/FDM) and CNC Machining.
 
 ---
-*This experience provided a strong foundation in digital manufacturing and fluid simulation workflows.*
+
+## 🚀 Key Technical Highlights
+
+### 1. Aerodynamic Optimization (CFD)
+Using Computational Fluid Dynamics, I iterated through **43 versions** of the chassis to minimize the drag coefficient ($C_d$).
+*   **Impact:** Reduced turbulence around the rear wheels by optimizing the sidepod geometry.
+*   *[Insert a screenshot of your CFD airflow here]*
+
+### 2. Engineering Management & WBS
+I developed a full **Work Breakdown Structure (WBS)** to ensure all car subsystems (Wings, Chassis, Wheels, Power Unit) were delivered on time and within the competition's strict technical regulations.
+*   **Constraint Management:** Monitored dimensional tolerances to avoid penalties during technical scrutineering.
+
+### 3. Precision Engineering
+*   **Dimensional Control:** Managed a tolerance spreadsheet to ensure a "Perfect Fit" between 3D printed parts and the CNC-machined body.
+*   *[Insert a screenshot of your Technical Drawing or Tolerance Spreadsheet here]*
+
+---
+
+## 📂 Repository Structure
+*   `cad-models/`: High-fidelity 3D models and renders.
+*   `cfd-analysis/`: Fluid dynamics reports and visual data.
+*   `technical-drawings/`: Engineering blueprints and manufacturing tolerances.
