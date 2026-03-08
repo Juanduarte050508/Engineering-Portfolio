@@ -1,35 +1,46 @@
-# 🏎️ F1 in Schools | Engineering & Design Portfolio
-**Role: Lead Design/Project Engineer (2023-2024)**
+# 🚀 Engineering & Robotics Portfolio | Juan Duarte
 
-## 📌 Project Overview
-F1 in Schools is an international STEM competition where teams design, analyze, manufacture, and race miniature compressed air-powered cars. This repository documents the technical development of the **Rise 5** prototype.
-
-## 🛠️ Tech Stack & Skills
-*   **CAD:** Autodesk Fusion 360 (Advanced Surface Modeling).
-*   **CAE/CFD:** Virtual Wind Tunnel Simulations (Drag & Downforce analysis).
-*   **Management:** WBS (Work Breakdown Structure), Budgeting, and Quality Control.
-*   **Manufacturing:** 3D Printing (SLA/FDM) and CNC Machining.
+Welcome to my technical portfolio. This repository hosts two of my major engineering projects, showcasing a multidisciplinary skillset ranging from high-performance aerodynamics to computer vision and robotics.
 
 ---
 
-## 🚀 Key Technical Highlights
+## 🏎️ Project 1: F1 in Schools - Alset Brasil (Rise 5)
+**Focus:** Mechanical Engineering, CFD, and Manufacturing.
 
-### 1. Aerodynamic Optimization (CFD)
-Using Computational Fluid Dynamics, I iterated through **43 versions** of the chassis to minimize the drag coefficient ($C_d$).
-*   **Impact:** Reduced turbulence around the rear wheels by optimizing the sidepod geometry.
-*   *[Insert a screenshot of your CFD airflow here]*
+The **Rise 5** is a high-performance CO2-powered prototype developed for the F1 in Schools competition. This project demonstrates advanced surfacing and fluid dynamics optimization.
 
-### 2. Engineering Management & WBS
-I developed a full **Work Breakdown Structure (WBS)** to ensure all car subsystems (Wings, Chassis, Wheels, Power Unit) were delivered on time and within the competition's strict technical regulations.
-*   **Constraint Management:** Monitored dimensional tolerances to avoid penalties during technical scrutineering.
-
-### 3. Precision Engineering
-*   **Dimensional Control:** Managed a tolerance spreadsheet to ensure a "Perfect Fit" between 3D printed parts and the CNC-machined body.
-*   *[Insert a screenshot of your Technical Drawing or Tolerance Spreadsheet here]*
+*   **Key Technologies:** Autodesk Fusion 360, CFD (Fluid Dynamics), CNC Machining, 3D Printing.
+*   **Highlights:** 43 design iterations, aerodynamic drag reduction, and full project management (WBS/Budget).
+*   **[📂 Explore F1 in Schools Folder](./F1-in-Schools-Alset-Brasil)**
 
 ---
 
-## 📂 Repository Structure
-*   `cad-models/`: High-fidelity 3D models and renders.
-*   `cfd-analysis/`: Fluid dynamics reports and visual data.
-*   `technical-drawings/`: Engineering blueprints and manufacturing tolerances.
+## 🤖 Project 2: Robotic Hand via Computer Vision (TCC)
+**Focus:** Robotics, Electronics, and Computer Science.
+
+My Capstone Project (TCC) consists of a robotic hand controlled in real-time by a camera. The system uses Computer Vision to track human hand movements and translates them into mechanical motion.
+
+*   **Hardware:** Arduino, Servo Motors, Protoboarding, Electrical Circuitry.
+*   **Software:** Python, OpenCV (Computer Vision), Mediapipe.
+*   **How it works:** Python processes the video feed to detect hand landmarks and sends PWM signals to the Arduino to control the servos.
+*   **[📂 Explore Robotic Hand Folder](./TCC-Robotic-Hand)** (Ensure your folder name matches this link)
+
+---
+
+## 🛠️ Technical Skills Stack
+
+| Category | Skills & Tools |
+| :--- | :--- |
+| **Design / CAD** | Fusion 360, Technical Drawing, Prototyping |
+| **Simulation** | CFD (Aerodynamics), FEA (Stress Analysis) |
+| **Programming** | Python (OpenCV), C++ (Arduino), G-Code |
+| **Electronics** | Circuit Design, Servo Control, Sensors |
+| **Management** | WBS (EAP), Budgeting, Technical Documentation |
+
+---
+
+## 📧 Contact & Links
+* **LinkedIn:** [Your LinkedIn Link Here]
+* **Email:** [Your Email Here]
+
+*"Turning complex simulations into functional engineering reality."*
