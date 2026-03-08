@@ -1,2 +1,8 @@
-Suba fotos do carro da Alset Brasil, da equipe e talvez de você trabalhando no projeto. 
-O vídeo .avi (recomendo converter para .mp4 ou .gif) e fotos do carro real.
+# 📸 Media & Visuals
+
+Visual documentation of the Rise 5 project, including aerodynamic simulations and aesthetic design.
+
+## 📂 Media Assets
+* **Aerodynamic Simulation:** Video showing the airflow analysis (v43) of the prototype.
+* **Car Showcase:** Photographic records and renders of the final vehicle.
+* **Branding & Livery:** Design of the F1 stickers and visual identity applied to the car.
